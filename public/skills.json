@@ -1,0 +1,103 @@
+[
+      {
+        "category" : "Frontend",
+        "name": "HTML",
+        "image": "https://i.ibb.co/1QMy4L0/HTML.png"
+      },
+      {
+        "category" : "Frontend",
+        "name": "CSS",
+        "image": "https://i.ibb.co/nCsM7nd/CSS.png"
+      },
+      {
+        "category" : "Frontend",
+        "name": "Sass",
+        "image": "https://i.ibb.co/0Dpszvt/512px-Sass-Logo-Color-svg.png"
+      },
+      {
+        "category" : "Frontend",
+        "name": "JavaScript",
+        "image": "https://i.ibb.co/5vqTQSn/JS.png"
+      },
+      {
+        "category" : "Frontend",
+        "name": "React",
+        "image": "https://i.ibb.co/rxwgF3G/React-icon-svg.png"
+      },
+      {
+        "category" : "Frontend",
+        "name": "Tailwind",
+        "image": "https://i.ibb.co/Bc2hP4H/tailwind-css-icon.png"
+      },
+      {
+        "category" : "Frontend",
+        "name": "Bootstrap",
+        "image": "https://i.ibb.co/1rhzjYr/bootstrap.png"
+      },
+      {
+        "category" : "Backend",
+        "name": "Node.js",
+        "image": "https://i.ibb.co/nsRvqhy/2560px-Node-js-logo-svg.png"
+      },
+      {
+        "category" : "Backend",
+        "name": "Express.js",
+        "image": "https://i.ibb.co/g6yKtp1/expressjs-copy.png"
+      },
+      {
+        "category" : "Backend",
+        "name": "MongoDB",
+        "image": "https://i.ibb.co/qY038jJ/free-mongodb-3521676-2945120.webp"
+      },
+      {
+        "category" : "Backend",
+        "name": "Firebase",
+        "image": "https://i.ibb.co/gFXq7QV/1611674.png"
+      },
+      {
+        "category" : "Tolls",
+        "name": "VSCode",
+        "image": "https://i.ibb.co/NSNgN6Q/file-type-vscode-icon-130084.png"
+      },
+      {
+        "category" : "Tolls",
+        "name": "NPM",
+        "image": "https://i.ibb.co/4N8MjXx/download.png"
+      },
+      {
+        "category" : "Tolls",
+        "name": "Vite",
+        "image": "https://i.ibb.co/D4dtfv3/vite-969267d6.png"
+      },
+      {
+        "category" : "Tolls",
+        "name": "Git",
+        "image": "https://i.ibb.co/v4ZqHgM/git-cd056e6e.png"
+      },
+      {
+        "category" : "Tolls",
+        "name": "Netlify",
+        "image": "https://i.ibb.co/P6Z3srt/netlify-9fa9b01e.png"
+      },
+      {
+        "category" : "Others",
+        "name": "Figma",
+        "image": "https://i.ibb.co/LnXcXXF/figma.png"
+      },
+      {
+        "category" : "Others",
+        "name": "Canva",
+        "image": "https://i.ibb.co/ctRWf8k/canva-7beeac4e.png"
+      },
+      {
+        "category" : "Others",
+        "name": "Photoshop",
+        "image": "https://i.ibb.co/HBmW8Kr/Adobe-Photoshop-CC-icon-svg.png"
+      },
+      {
+        "category" : "Others",
+        "name": "Illustrator",
+        "image": "https://i.ibb.co/1rW7J6w/Adobe-Illustrator-CC-icon-svg.png"
+      }
+]
+  
