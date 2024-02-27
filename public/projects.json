@@ -4,8 +4,8 @@
       "name": "Language Masters",
       "image": "https://i.ibb.co/QQcTvnB/Language-Masters.png",
       "liveLink": "https://languagemaster96.web.app",
-      "githubClientLink": "https://github.com/sohelranagtc/language-masters.git",
-      "githubServerLink": "https://github.com/sohelranagtc/language-masters-server.git",
+      "githubClientLink": "https://github.com/sohel-tech4/language-masters.git",
+      "githubServerLink": "https://github.com/sohel-tech4/language-masters-server.git",
       "details": "The web app includes user authentication with role-based access and allows users to manage classes based on their roles. Railway, and Firebase authentication are utilized.",
       "technologies": ["React", "React Router", "Tailwind", "Node.js", "Express.js", "Firebase", "MongoDB"]
     },
@@ -14,8 +14,8 @@
       "name": "Robo Tech Toy",
       "image": "https://i.ibb.co/fSM3Zh9/ROBO-TECH.png",
       "liveLink": "https://robotechtoy.web.app",
-      "githubClientLink": "https://github.com/sohelranagtc/robotechtoy.git",
-      "githubServerLink": "https://github.com/sohelranagtc/robotechtoy-server.git",
+      "githubClientLink": "https://github.com/sohel-tech4/robotechtoy.git",
+      "githubServerLink": "https://github.com/sohel-tech4/robotechtoy-server.git",
       "details": "E-commerce Toys website with view details, Railway, and Firebase authentication for adding toys and category-based search.",
       "technologies": ["React", "React Router", "Tailwind", "Node.js", "Express.js", "Firebase", "MongoDB"]
     },
@@ -24,9 +24,45 @@
       "name": "Sunnah Spouse",
       "image": "https://i.ibb.co/SyC8H9k/Sunnah-Spouse.png",
       "liveLink": "https://sunnah-spouse2.web.app",
-      "githubClientLink": "https://github.com/sohelranagtc/sunnah-spouce.git",
-      "githubServerLink": "https://github.com/sohelranagtc/sunnahspouse-server.git",
+      "githubClientLink": "https://github.com/sohel-tech4/sunnah-spouce.git",
+      "githubServerLink": "https://github.com/sohel-tech4/sunnahspouse-server.git",
       "details": "Matrimony website with login required if want to create biodata. Railway and Firebase authentication for enhanced security. ",
       "technologies": ["React", "React Router", "Tailwind", "Node.js", "Express.js", "Firebase", "MongoDB"]
+    },
+    {
+      "id": "04",
+      "name": "Sky Goal Education",
+      "image": "https://i.ibb.co/wChyvTJ/Sky-Goal-Education.png",
+      "liveLink": "https://skygoaleducation.netlify.app/",
+      "githubClientLink": "https://github.com/sohel-tech4/skygoaleducation.git",
+      "details": "This is Sky Goal Educational website. Many of features here like Banner, Adventures for Students, Institutes destination where I use react slick where card will auto change. Also have booking option.",
+      "technologies": ["React JS","React Slick","Tailwind CSS"]
+    },
+    {
+      "id": "05",
+      "name": "Legal House",
+      "image": "https://i.ibb.co/34N5zZS/Legal-Solution.png",
+      "liveLink": "https://stellular-heliotrope-57aeb9.netlify.app",
+      "githubClientLink": "https://github.com/sohel-tech4/legal-house.git",
+      "details": "Its an lawier website. Here hove some serviecs like Business law, Criminal Law, Child Support, Education Law, Divoce Law, Tax Law etc. I have use HTML and Bootstrap",
+      "technologies": ["HTML","Tailwind CSS"]
+    },
+    {
+      "id": "06",
+      "name": "Interno",
+      "image": "https://i.ibb.co/kHRvgfV/Site-Title-Here.png",
+      "liveLink": "https://interno-web2.netlify.app",
+      "githubClientLink": "https://github.com/sohel-tech4/interno-web.git",
+      "details": "This is an architectural websites Home page design. You will see some features of architectural design. I have use only HTML, CSS & Bootstrap",
+      "technologies": ["HTML", "CSS", "Bootstrap"]
+    },
+    {
+      "id": "07",
+      "name": "Storelo",
+      "image": "https://i.ibb.co/DQPG5VS/Storelo.png",
+      "liveLink": "https://storelo.netlify.app",
+      "githubClientLink": "https://github.com/sohel-tech4/storelo.git",
+      "details": "Its an E-commerce websites front site page design. Where I have use some animation. Here you can show some product card. I have use only HTML, CSS & Bootstrap",
+      "technologies": ["HTML", "CSS", "Bootstrap"]
     }
 ]
