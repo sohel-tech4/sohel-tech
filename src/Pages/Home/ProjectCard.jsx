@@ -18,7 +18,7 @@ const ProjectCard = ({ Project }) => {
             data-aos-mirror="true"
             data-aos-once="true"
 
-            className="rounded-lg h-full text-white bg-[#14293C] hover:">
+            className="rounded-lg h-full text-white bg-green-600 bg-opacity-20 hover:">
             <div className='p-2 '>
                 <div className="h-72 w-full overflow-auto rounded-lg">
                     <img src={image} alt="Card" className="h-auto w-100%" />
@@ -43,25 +43,32 @@ const ProjectCard = ({ Project }) => {
                     <div className="absolute bottom-0 left-0 right-0 flex justify-evenly">
                         <button className='border-lg font-bold'>
                             <Link target='_blank' to={liveLink}>
-                                <h1 className='flex text-center items-center gap-2 hover:bg-blue-600 bg- bg-blue-500 pt-1 pl-2 pr-2 pb-1 rounded-tr-lg rounded-bl-lg'>
+                                <h1 className='flex text-center items-center gap-2 hover:bg-green-600 bg-green-700 pt-1 pl-2 pr-2 pb-1 rounded-tr-lg rounded-bl-lg'>
                                     <FaExternalLinkAlt></FaExternalLinkAlt>Live
                                 </h1>
                             </Link>
                         </button>
                         <button className='border-lg pt-2 pl-2 pr-2 pb-2 font-bold'>
                             <Link target='_blank' to={githubClientLink}>
-                                <h1 className='flex text-center items-center gap-2 hover:bg-blue-600 bg- bg-blue-500  pt-1 pl-2 pr-2 pb-1 rounded-tr-lg rounded-bl-lg'>
+                                <h1 className='flex text-center items-center gap-2 hover:bg-green-600 bg-green-700  pt-1 pl-2 pr-2 pb-1 rounded-tr-lg rounded-bl-lg'>
                                     <FaGithub></FaGithub>Client
                                 </h1>
                             </Link>
                         </button>
-                        <button className='border-lg pt-2 pl-2 pr-2 pb-2 font-bold'>
-                            <Link target='_blank' to={githubServerLink}>
-                                <h1 className='flex text-center items-center gap-2 hover:bg-blue-600 bg- bg-blue-500  pt-1 pl-2 pr-2 pb-1 rounded-tr-lg rounded-bl-lg'>
-                                    <FaGithub></FaGithub>Server
-                                </h1>
-                            </Link>
-                        </button>
+                        {githubServerLink ?
+                            <>
+                                <button className='border-lg pt-2 pl-2 pr-2 pb-2 font-bold'>
+                                    <Link target='_blank' to={githubServerLink}>
+                                        <h1 className='flex text-center items-center gap-2 hover:bg-green-600 bg-green-700  pt-1 pl-2 pr-2 pb-1 rounded-tr-lg rounded-bl-lg'>
+                                            <FaGithub></FaGithub>Server
+                                        </h1>
+                                    </Link>
+                                </button>
+                            </>
+                            :
+                            <></>
+
+                        }
                     </div>
                 </div>
             </div>
