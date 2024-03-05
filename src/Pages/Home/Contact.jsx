@@ -31,8 +31,8 @@ const Contact = () => {
 
   return (
     <div className="container mx-auto pt-24 pb-10"> 
-      <h1 className='text-4xl text-center font-semibold'>Let's Talk</h1>
-      <h1 className='mb-5 mt-5 text-2xl text-center font-semibold px-5'>Have You Any Question <span className='text-green-500'>I'M AT YOUR SERVICES</span></h1>
+      <h1 className='text-2xl md:text-4xl text-center font-semibold'>Let's Talk</h1>
+      <h1 className='mb-5 mt-5 text-xl md:text-2xl  text-center font-semibold px-5'>Have You Any Question <span className='text-green-500'>I'M AT YOUR SERVICES</span></h1>
       <div className="hero-content p-0 flex-col-reverse lg:flex-row gap-10">
         <div className='md:visible'>
           <div

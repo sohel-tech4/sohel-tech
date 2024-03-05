@@ -32,7 +32,7 @@ const Skills = () => {
     return (
         <>
             <div className='container mx-auto pt-20 mb-28'>
-                <h1 className='pt-5 mb-5 text-4xl text-center font-semibold'>My Professional Skills</h1>
+                <h1 className='pt-5 mb-5 text-2xl md:text-4xl text-center font-semibold'>My Professional Skills</h1>
                 <Tabs className="container mx-auto p-5">
                     <TabList className="flex flex-wrap gap-3 items-center mb-10 text-white">
                         <Tab className="bg-green-600 px-5 rounded-md py-2"><button>Frontend</button></Tab>

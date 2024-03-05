@@ -18,7 +18,7 @@ const SkillsCard = ({ skill }) => {
 
             className='bg-green-600 bg-opacity-10 p-2 border-green-600 rounded-lg md:h-44 h-32 w-24 md:w-32 text-center grid'>
             <img className='md:w-28 w-24 flex justify-start container mx-auto p-5 text-center transition-transform duration-300 transform hover:scale-110' src={skill.image} alt="" />
-            <h1 className='absolute bottom-0 left-0 w-full mb-2 uppercase'>{skill.name}</h1>
+            <h1 className='absolute bottom-0 left-0 w-full mb-2'>{skill.name}</h1>
         </div>
     );
 };
